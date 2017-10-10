@@ -1,7 +1,7 @@
 
 # Java Virtual Machine Troubleshooting
 
-Oracle MOOC: Java Virtual Machine Troubleshooting
+>This course has three weekly lessons, and in these lessons we will discover various aspects of memory management, garbage collectors implemented in the JVM, and what kind of memory problems we might encounter with our java applications. We will explore various diagnostic and troubleshooting tools that can help us in dealing with the memory related issues.
 
 On this repository you will found all resources from this course offered by Poonam Parhar on Oracle Education.
 
