@@ -1,0 +1,1 @@
+java -XX:+PrintGCDetails -XX:+TraceClassUnloading -XX:+TraceClassLoading  -XX:MaxMetaspaceSize=20m -XX:-UseCompressedOops LoadClasses
